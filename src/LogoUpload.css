@@ -1,0 +1,61 @@
+.uploadIcon {
+    background-image: url("./assets/upload_icon.svg");
+    float: left;
+    height: 22px;
+    width: 24px;
+    fill: white;
+    color: white;
+  }
+  
+  .color {
+    margin: 5vh 0px 5vh 0px;
+  }
+  
+  .color button {
+    border-radius: 50%;
+    padding: 10px;
+    margin: 5px;
+  }
+  
+  .yellow {
+    background-color: #fed145;
+    border: 3px solid #ebbb2d;
+  }
+  
+  .blue {
+    background-color: #2ab1e4;
+    border: 3px solid #188db8;
+  }
+  
+  .pink {
+    background-color: #d9338b;
+    border: 3px solid #cc0c72;
+  }
+  
+  .umbrellaImg {
+    max-width: 400px;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+  }
+  
+  .uploadBtn {
+    width: 50%;
+    background-color: #2ab1e4;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    fill: white;
+  }
+  
+  .over {
+    position: absolute;
+    left: 1.5vw;
+    top: 48vh;
+    z-index: 1;
+  }
+
+  svg path {
+    fill: white;
+  }
+  
